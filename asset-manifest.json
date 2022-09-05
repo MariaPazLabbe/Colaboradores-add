@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Colaboradores-add/static/css/main.a075b90b.css",
+    "main.js": "/Colaboradores-add/static/js/main.f15ea0c3.js",
+    "index.html": "/Colaboradores-add/index.html",
+    "main.a075b90b.css.map": "/Colaboradores-add/static/css/main.a075b90b.css.map",
+    "main.f15ea0c3.js.map": "/Colaboradores-add/static/js/main.f15ea0c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a075b90b.css",
+    "static/js/main.f15ea0c3.js"
+  ]
+}
